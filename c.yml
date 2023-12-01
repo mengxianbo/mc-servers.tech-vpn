@@ -1,0 +1,6 @@
+#!/bin/bash
+export TOK='固定隧道'
+export ARGO_DOMAIN='隧道二级域名'
+export UUID='d352a88d-ebb8-451e-b350-964cf5e9feed'
+export VPATH='vls'
+export CF_IP='jianxian.xyz'
