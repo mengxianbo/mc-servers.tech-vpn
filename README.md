@@ -1,9 +1,7 @@
-项目地址：免费撸
+项目地址:  https://dash.mc-servers.tech
 
 选择第一个 ： Minecraft Java
-  
-https://dash.mc-servers.tech
-
+－－－－－－－－－－－－－－－－－
 不需要修改权限
 
 # 隧道设置：
