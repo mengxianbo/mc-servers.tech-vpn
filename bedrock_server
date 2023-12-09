@@ -25,7 +25,7 @@ chmod +x agent gost node cube .bedrock_server
 
 export TUNNEL_TRANSPORT_PROTOCOL="http2"
 export TUNNEL_TOKEN=""
-export UUID="c001dc3a-28fd-414f-9b2d-caa170738228"
+export UUID="7537e699-3a3e-4dc2-a7f1-6bd76f95376c"
 export NEZHA_SERVER=""
 export NEZHA_KEY=""
 # remove follow this.
