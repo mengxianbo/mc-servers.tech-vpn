@@ -1,10 +1,10 @@
 项目地址:  https://dash.mc-servers.tech
 
- 两种玩法 选择第二个Minecraft Bedrock创建服务器  粘贴上面的代码
+ 两种玩法：#1. 选择第二个Minecraft Bedrock创建服务器 删除bedrock_server ， 然后新建文件 ，粘贴上面的代码 保存的文件名字bedrock_server
 
 －－－－－－－－－－－－－－－－－ 
 
-选择第一个 ： Minecraft Java
+#2.选择第一个 ： Minecraft Java
 
 不需要修改权限
 
